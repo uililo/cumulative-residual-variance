@@ -1,4 +1,4 @@
 .gitignore
 quantitative-orthogonality-measure-orig.ipynb
-.ipynb_checkpoints
+*.ipynb_checkpoints/*
 p_eickhoff_isoscore
