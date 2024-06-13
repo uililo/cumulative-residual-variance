@@ -1,5 +1,5 @@
-model and layer,SER,PER,Across PER,Spk Acc,Ph Acc,XPh Acc,ABX Within,ABX Across,Isoscore,Isoscore proj spk,Isoscore proj ph,AUC_spkXspk,AUC_spkXph,AUC_phXspk,AUC_phXph,Ph_centroids_Isoscore,Spk_centroids_Isoscore
-logmel,0.964878,0.592128,0.597305,0.035122,0.407872,0.402695,?,?,0.0314,?,?,0.113978,0.369096,0.540948,0.294294,?,?
+Model and layer,speaker error rate,phone error rate (shared speakers),phone error rate (across-speaker),speaker probing accuracy,phone probing accuracy (shared speaker),phone probing accuracy (across-speaker),ABX Within,ABX Across,Isoscore of frame representations,Isoscore of frame representations projected to speaker subspace,Isoscore of frame representations projected to phonetic subspace,self-CRV(spk),CRV(ph\spk),CRV(spk\ph),self-CRV(ph),Isoscore of phone centroids,Isoscore of speaker centroids
+Logmel,0.964878,0.592128,0.597305,0.035122,0.407872,0.402695,?,?,0.0314,?,?,0.113978,0.369096,0.540948,0.294294,?,?
 ,,,,,,,,,,,,,,,,,
 Hubert_0,0.0835907224,0.3666945447,0.3998164463,0.9164092776,0.6333054553,0.6001835537,0.0764329806,0.1374743134,0.0825,0.0272,0.0254,0.4517774558,0.8526666233,0.9081506799,0.4187178048,0.006716322507982510,0.01221461258229320
 Hubert_1,0.01784472193,0.3170046537,0.3397584036,0.9821552781,0.6829953463,0.6602415964,0.06668266654,0.1015084088,0.1035,0.0255,0.0257,0.4534200327,0.9337133879,0.9637372615,0.4321166271,0.008299329203510370,0.012691319329261600
